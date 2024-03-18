@@ -1,2 +1,2 @@
-In this repository 45 typescript excercise code has been coampleted
-And the projects code are in folders/repositories 
+In this repository 45 typescript excercise code has been completed
+And the projects codes are in folders/repositories 
